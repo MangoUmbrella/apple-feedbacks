@@ -2,7 +2,7 @@
 
 Here is an example:
 
-```
+```swift
 #Preview(as: .systemSmall) {
     StaticWidget()
 } timelineProvider: {
